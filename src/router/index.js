@@ -7,7 +7,7 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      name: 'event-list ',
+      name: 'event-list',
       component: EventListView
     },
     {
